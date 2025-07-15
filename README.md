@@ -1,6 +1,6 @@
-# Tic Tac Toe Game
+# Rock Paper Scissors Game
 
-A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
+A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 
 ## Features / Functionalities
 
